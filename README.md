@@ -54,12 +54,7 @@ To get this application running on your local machine, follow these steps.
     ```bash
     pip install -r requirements.txt
     ```
-    Your `requirements.txt` might look like this:
-    ```txt
-    opencv-python
-    numpy
-    ultralytics
-    ```
+
 
 ---
 
