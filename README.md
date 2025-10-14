@@ -35,8 +35,8 @@ To get this application running on your local machine, follow these steps.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/Hamer1224/Scoliolyzer.git
+    cd Scoliolyzer
     ```
 
 2.  **Download YOLOv4-tiny Model Files:**
