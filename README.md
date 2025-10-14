@@ -66,7 +66,7 @@ To get this application running on your local machine, follow these steps.
     python main.py
     ```
 2.  **Load an Image:**
-    Click the **"Load Image"** button and select a spinal X-ray file.
+    Click the **"Select an X-ray image"** button and select a spinal X-ray file.
 3.  **View the Results:**
     The application will automatically process the image. The detected vertebrae and the calculated Cobb angle will appear on the screen in moments.
 
