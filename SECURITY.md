@@ -8,6 +8,6 @@ Every version is supported (for now)
 | ------- | ------------------ |
 | 0.1.x   | :white_check_mark: |
 
-## Reporting a Vulnerability
+## IMPORTANT
 
 There is no websites of this app, if you find another "Scoliolyzer" please report to me and DO NOT download it!
