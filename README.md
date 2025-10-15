@@ -63,7 +63,7 @@ To get this application running on your local machine, follow these steps.
 1.  **Run the Application:**
     Execute the main Python script from your terminal.
     ```bash
-    python main.py
+    python AI_Main.py
     ```
 2.  **Load an Image:**
     Click the **"Select an X-ray image"** button and select a spinal X-ray file.
