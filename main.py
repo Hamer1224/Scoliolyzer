@@ -1,6 +1,4 @@
-# scoliosis_full_merged_gui.py
 
-# This script includes a GUI using tkinter and calculates Cobb angle using proper vertebral tilt lines
 
 import cv2
 import numpy as np
